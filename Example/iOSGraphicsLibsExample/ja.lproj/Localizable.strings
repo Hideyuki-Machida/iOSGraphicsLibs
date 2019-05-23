@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  iOSGraphicsLibsExample
+
+  Created by hideyuki machida on 2019/05/23.
+  Copyright © 2019 hideyuki machida. All rights reserved.
+*/
+
+"Hello World" = "こんにちは、世界";

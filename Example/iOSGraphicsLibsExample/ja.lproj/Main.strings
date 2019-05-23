@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Hello World"; ObjectID = "EwD-Ar-yFo"; */
+"EwD-Ar-yFo.text" = "Hello World";
+
+/* Class = "UIButton"; normalTitle = "Animatorサンプル"; ObjectID = "FJV-MA-uem"; */
+"FJV-MA-uem.normalTitle" = "Animatorサンプル";
+
+/* Class = "UIButton"; normalTitle = "DesignableViewサンプル"; ObjectID = "RDd-d8-XVa"; */
+"RDd-d8-XVa.normalTitle" = "DesignableViewサンプル";
+
+/* Class = "UIButton"; normalTitle = "Animatorサンプル"; ObjectID = "hy9-sV-rE7"; */
+"hy9-sV-rE7.normalTitle" = "Animatorサンプル";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ix3-ij-Ty8"; */
+"ix3-ij-Ty8.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "アニメーション"; ObjectID = "weS-p4-C2x"; */
+"weS-p4-C2x.normalTitle" = "アニメーション";
