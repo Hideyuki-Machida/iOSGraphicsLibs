@@ -18,6 +18,8 @@ Example: [Color.playground](https://github.com/Hideyuki-Machida/iOSGraphicsLibs/
 ## Animator
 Tweenアニメーションを実装できます。
 
+[Easing functions](https://easings.net/)
+
 Example: [AnimatorExample.swift](https://github.com/Hideyuki-Machida/iOSGraphicsLibs/blob/master/Example/iOSGraphicsLibsExample/AnimatorExample.swift)
 
 
